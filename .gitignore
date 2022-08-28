@@ -1,0 +1,12 @@
+# Project exclude paths
+/client-hc/target/
+/core/target/
+/example/target/
+/hmm-lib/target/
+/map-matching/target/
+/navigation/target/
+/reader-gtfs/target/
+/tools/target/
+/web/target/
+/web-api/target/
+/web-bundle/target/

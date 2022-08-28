@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="directions-api-client-hc" />
+        <module name="graphhopper-web-api" />
+        <module name="graphhopper-map-matching" />
+        <module name="graphhopper-core" />
+        <module name="graphhopper-web-bundle" />
+        <module name="graphhopper-tools" />
+        <module name="hmm-lib-external" />
+        <module name="graphhopper-example" />
+        <module name="graphhopper-reader-gtfs" />
+        <module name="graphhopper-web" />
+        <module name="graphhopper-nav" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
